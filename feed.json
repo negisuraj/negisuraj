@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "surajnegi",
+    "description": "",
+    "home_page_url": "https://negisuraj.github.io/negisuraj",
+    "feed_url": "https://negisuraj.github.io/negisuraj/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Suraj negi"
+    },
+    "items": [
+    ]
+}
